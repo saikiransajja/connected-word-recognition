@@ -1,0 +1,10 @@
+# Local build products
+/build/
+*.o
+*.obj
+*.exe
+*.dSYM/
+
+# macOS metadata
+.DS_Store
+._*
